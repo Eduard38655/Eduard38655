@@ -154,3 +154,4 @@ Desarrollo Full Stack · React · .NET · ASP.NET Core · Node.js · APIs REST �
 - GitHub: https://github.com/Eduard38655
 - Portafolio: https://eduardo-ferreras-portafolio.netlify.app/
 - Correo: eduao154@gmail.com
+- LinkIn: https://www.linkedin.com/in/eduardo-ferreras-de-los-santos-13632925a/
