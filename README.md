@@ -13,7 +13,6 @@ Me interesa construir soluciones que resuelvan problemas reales, escribir códig
 
 [GitHub](https://github.com/Eduard38655) · [Portafolio](https://eduardo-ferreras-portafolio.netlify.app/) · [Contacto](eduao154@gmail.com)
 
----
 
 ## 🚀 Sobre mí
 
@@ -25,6 +24,7 @@ Me interesa construir soluciones que resuelvan problemas reales, escribir códig
 - 🎨 Creación de interfaces utilizando Tailwind CSS, CSS y HTML.
 - 🏗️ Participación en el desarrollo de un sistema ERP empresarial.
 - 📚 En constante aprendizaje de nuevas tecnologías y buenas prácticas de programación.
+- 🏗️ Idiomas: Ingles & Español
 
 ## 💼 Experiencia profesional
 
